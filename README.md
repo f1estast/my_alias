@@ -33,4 +33,12 @@ Arch : alias syu='sudo pacman -Syu'
 
 Debian : alias aptup='sudo apt update && apt upgrade'
 
+# Text Edtors 
+alias v='vim'
+
+alias sv='sudo vim'
+
+alias n='nano'
+
+alias sn='sudo nano'
 
