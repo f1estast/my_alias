@@ -1,0 +1,4 @@
+alias gc='git clone'
+alias ..='cd ../'
+alias ping='ping google.com'
+alias nf='neofetch'
