@@ -24,4 +24,9 @@ Be sure to restart bash after adding the commands to  ~/.bashrc!!
  alias ..='cd ../
 
 # Control 
-alias sdn'sudo shutdown now'
+alias sdn='sudo shutdown now'
+
+# Update 
+alias syu='sudo pacman -Syu'
+
+alias aptup='sudo apt update && apt upgrade'
