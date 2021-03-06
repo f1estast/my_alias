@@ -26,7 +26,7 @@ Be sure to restart bash after adding the commands to  ~/.bashrc!!
 # System
 alias sdn='sudo shutdown now'
 
-alias sctl='sudo systemctl'
+alias ssc='sudo systemctl'
 
 # Update 
 Arch : alias syu='sudo pacman -Syu'
