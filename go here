@@ -1,8 +1,0 @@
-alias gc='git clone'
-alias ..='cd ../'
-alias ping='ping google.com'
-alias nf='neofetch'
-alias v='vim'
-alias gs='git status'
-alias sv='sudo vim'
-alias 
