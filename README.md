@@ -14,4 +14,9 @@ my alias in .bashrc file
  Arch : alias sps='sudo pacman -S'
  
  Debian : alias sap='sudo apt install'
+ 
+ # Directories 
+ alias md='mkdir'
+ 
+ alias ..='cd ../
 
