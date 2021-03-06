@@ -1,6 +1,9 @@
 # my_alias
 my alias in .bashrc file
 
+# Note 
+Be sure to restart bash after adding the commands to ~/.bashrc!!
+
 # Git 
  alias gc='git clone'
  
