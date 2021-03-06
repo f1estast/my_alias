@@ -2,7 +2,7 @@
 my alias in .bashrc file
 
 # Note 
-Be sure to restart bash after adding the commands to ~/.bashrc!!
+Be sure to restart bash after adding the commands to  ~/.bashrc!!
 
 # Git 
  alias gc='git clone'
@@ -23,3 +23,5 @@ Be sure to restart bash after adding the commands to ~/.bashrc!!
  
  alias ..='cd ../
 
+# Control 
+alias sdn'sudo shutdown now'
