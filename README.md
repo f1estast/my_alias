@@ -23,10 +23,14 @@ Be sure to restart bash after adding the commands to  ~/.bashrc!!
  
  alias ..='cd ../
 
-# Control 
+# System
 alias sdn='sudo shutdown now'
 
-# Update 
-alias syu='sudo pacman -Syu'
+alias sctl='sudo systemctl'
 
-alias aptup='sudo apt update && apt upgrade'
+# Update 
+Arch : alias syu='sudo pacman -Syu'
+
+Debian : alias aptup='sudo apt update && apt upgrade'
+
+
